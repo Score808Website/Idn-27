@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://idn27.score808.eu.org/sitemap.xml
